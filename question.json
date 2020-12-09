@@ -1,0 +1,76 @@
+[
+    {
+        "1":"How many states and union territories in India ?",
+        "2":"How is the PM of India ?",
+        "3":"Which editor is mainly use for c programming?",
+        "4":"Which two states share their capital ?",
+        "5":"Jupter notebooks is which type of editor  ?",
+        "6":"Where the Taj Mahal is located ?",
+        "7":"Which youtuber got 100million subscribers first in the world ?",
+        "8":"Which operating syestem is the best for gaming ?",
+        "9":"Which is the best gaming graphics card ?",
+        "10":"Which is the best gaming cpu ?"
+    },
+    {
+        "1": [
+            "80,6",
+            "60,0",
+            "31,9",
+            "28,8"
+        ],
+        "2": [
+            "Amit Shah",
+            "Rahul Gandhi",
+            "Narenda Modi",
+            "Sonia Gandhi"
+        ],
+        "3": [
+            "Sublime Text 3",
+            "visual studio code",
+            "Turbo C++",
+            "atom"
+        ],
+        "4": [
+            "Rajasthan and Gurjarat",
+            "Telegana and Andhra Pradesh ",
+            "Himachal Pradesh and Uttharkand",
+            "Chandigarh and Haranya"
+        ],
+        "5": [
+            "-",
+            "-",
+            "offine",
+            "online"
+        ],
+        "6": [
+            "Jaipur",
+            "Agra",
+            "Manali",
+            "Delhi"
+        ],
+        "7": [
+            "Cocomelon",
+            "T series",
+            "Pwediepie",
+            "Mrbeast"
+        ],
+        "8": [
+            "steamOS",
+            "Linux",
+            "Windows",
+            "macOS"
+        ],
+        "9": [
+            "RTX 2080ti",
+            "GTX 1660ti",
+            "AMD Radeaon 5700xt",
+            "AMD Radeaon Vega 86"
+        ],
+        "10": [
+            "i9 10thgen",
+            "i9 9th gen",
+            "ryzen 9 3900x",
+            "ryzen 7 2700x"
+        ]
+    }
+]
